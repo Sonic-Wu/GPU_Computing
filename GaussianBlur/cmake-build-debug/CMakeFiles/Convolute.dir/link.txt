@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/Convolute.dir/Convolute_generated_main.cu.o  -o Convolute /usr/local/cuda/lib64/libcudart_static.a -lpthread -ldl -lrt 
