@@ -1,0 +1,3 @@
+/home/xinyu/Dropbox/GPU_computing/source/homework0/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/xinyu/Dropbox/GPU_computing/source/homework0/cmake-build-debug/CMakeFiles/hello.dir
+/home/xinyu/Dropbox/GPU_computing/source/homework0/cmake-build-debug/CMakeFiles/edit_cache.dir

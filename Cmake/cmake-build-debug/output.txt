@@ -1,0 +1,11 @@
+Name:                  GeForce GTX 970
+Global Memory:         4.13683 Gb
+Shared Memory/block:   48 Kb
+Registers/block:       65536
+Warp Size:             32
+Max Threads/block:     1024
+Max Block Dimensions:  [1024 x 1024 x 64]
+Max Grid Dimensions:   [2147483647 x 65535 x 65535]
+Constant Memory:       64 Kb
+Compute Capability:    5.2
+Clock Rate:            1.329 GHz
